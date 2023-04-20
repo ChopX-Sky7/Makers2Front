@@ -1,0 +1,21 @@
+.card{
+    background-color: #0E0F1C;
+    margin: 10px;
+}
+
+.card-subtitle{
+    font-family: 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 125.52%;
+    /* or 20px */
+    text-align: center;
+    letter-spacing: 0.055em;
+    background-color: #30373C;
+
+}
+
+.files-row{
+    border: 2px #00EEEE;
+}
